@@ -19,7 +19,7 @@ Once you have your API keys, do the following:
   * Install dependencies
   	* `yarn`
   * Set up environment variables
-    * `cp SAMPLE.env .env` 
+    * `cp SAMPLE.env .env`
     * Enter your API credentials in .env file
 
 ## Getting Started (Recommended - Netlify CLI)
@@ -35,14 +35,14 @@ Netlify CMS can run in any frontend web environment, but the quickest way to try
 
 
 ### "One Click" Deploy
-Alternative to the CLI, you can use the deploy button below to build and deploy your own copy of the repository. This is recommended if you have not already forked the repo (as it will make a copy of it). 
+Alternative to the CLI, you can use the deploy button below to build and deploy your own copy of the repository. This is recommended if you have not already forked the repo (as it will make a copy of it).
 
 *Note: The initial deploy will fail, as you need to set build environment variables for your Netlify site*
 
 To set the variables:
- * Navigate to your Netlify site's "Build & Deploy" settings 
+ * Navigate to your Netlify site's "Build & Deploy" settings
  * Go to "Environment variables" > "Edit variables"
- * Enter the environment variables specified in "SAMPLE.env" and your BC API credentials 
+ * Enter the environment variables specified in "SAMPLE.env" and your BC API credentials
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/bigcommerce/gatsby-bigcommerce-netlify-cms-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
@@ -137,3 +137,5 @@ Photos in starter from various photographers:
 # CONTRIBUTING
 
 Contributions are always welcome, no matter how large or small.
+
+# David Meakin
