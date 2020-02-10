@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About Uss
+title: About Us
 image: /img/bags-commerce-hanging.jpg
 ---
 ### Creatively sourced for those that care
