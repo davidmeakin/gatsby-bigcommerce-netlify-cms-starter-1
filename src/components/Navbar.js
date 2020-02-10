@@ -61,7 +61,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
+                About1
               </Link>
               <Link className="navbar-item" to="/products">
                 Products
@@ -77,7 +77,7 @@ const Navbar = class extends React.Component {
                   return (
                     <Link className="navbar-item menu-item-bigcommerce-cart" to="/cart">
                       Cart
-                      
+
                       {value &&
                         value.state.cart &&
                         value.state.cart.numberItems > 0 && (
